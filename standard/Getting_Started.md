@@ -76,6 +76,7 @@ Depending on your role:
 | [Conformance Claim Template](appendix/Conformance_Claim_Template.md) | Informative | Optional template for platform operators documenting conformance |
 | [Evidence Package Manifest](appendix/Evidence_Package_Manifest.md) | Informative | Illustrative manifest for finding evidence, provenance, and downstream handoff |
 | [Rules of Engagement Template](appendix/Rules_of_Engagement_Template.md) | Informative | Illustrative machine-readable Rules of Engagement starter template |
+| [Authority Delegation Matrix Template](appendix/Authority_Delegation_Matrix_Template.md) | Informative | Simple starter matrix for approval authority, escalation, and backup roles |
 | [Advisory Requirements](appendix/Advisory_Requirements.md) | Informative | Best-practice requirements not gated to any compliance tier |
 
 ## Common Questions

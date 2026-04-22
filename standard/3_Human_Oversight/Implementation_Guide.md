@@ -57,7 +57,7 @@ Practical guidance for implementing APTS Human Oversight requirements. Each sect
 
 ## APTS-HO-004: Authority Delegation Matrix
 
-**Implementation:** Document a clear matrix defining who can approve what actions at which autonomy levels. Include approval authority, delegation rules, and escalation chains. Distribute to all operators and maintain version control.
+**Implementation:** Document a clear matrix defining who can approve what actions at which autonomy levels. Include approval authority, delegation rules, backup approvers, and escalation chains. Distribute to all operators and maintain version control. See the [Authority Delegation Matrix Template](../appendix/Authority_Delegation_Matrix_Template.md) for a simple starter format.
 
 **Key Considerations:**
 - Include role definitions, authority limits, and delegation permissions
